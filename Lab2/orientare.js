@@ -17,8 +17,8 @@ var latura_patrat = 50;
 context.clearRect(0,0,canvas.width, canvas.height);
 //context.translate(centru.x/2, centru.y/2);
 //context.rotate(alpha * Math.PI / 180);
-//context.beginPath();
-context.fillStyle = "#FF0000";
+context.beginPath();
+//context.fillStyle = "#FF0000";
 //context.rect(centru.x,centru.y,latura_patrat*Math.abs(gamma/180),latura_patrat*Math.abs(gamma/180));
 context.rect(canvas.width/2,canvas.height/2,
 300,300);
