@@ -21,8 +21,8 @@ context.setTransform(1, 0, 0, 1, 0, 0);
 context.clearRect(0,0,canvas.width, canvas.height);
 
 context.beginPath();
-context.fillStyle = "#00FF00";
-context.fillRect(canvas.width/2-Math.abs(gamma),canvas.height/2-Math.abs(gamma),Math.abs(gamma)*4,Math.abs(gamma)*4);
+context.fillStyle = "#0000FF";
+context.fillRect(canvas.width/2-Math.abs(gamma)*3,canvas.height/2-Math.abs(gamma)*3,Math.abs(gamma)*6,Math.abs(gamma)*6);
 context.stroke();
 //context.fillStyle = "red";
 //context.translate(centru.x/2, centru.y/2);
