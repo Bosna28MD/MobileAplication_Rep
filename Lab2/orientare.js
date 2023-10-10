@@ -1,4 +1,6 @@
 //Comment...
+window.addEventListener("deviceorientation", 
+on_device_orientation);
 
 function on_device_orientation(evt)
 {
@@ -15,21 +17,24 @@ var context = canvas.getContext("2d");
 var latura_patrat = 40;
 context.setTransform(1, 0, 0, 1, 0, 0);
 context.clearRect(0,0,canvas.width, canvas.height);
+
+context.beginPath();
+context.fillStyle = "#FF0000";
+context.fillRect(5,5,30,30);
+context.stroke();
 //context.fillStyle = "red";
 //context.translate(centru.x/2, centru.y/2);
 //context.rotate(alpha * Math.PI / 180);
-context.beginPath();
-context.fillStyle = "#FF0000";
+//context.beginPath();
+//context.fillStyle = "#FF0000";
 //context.rect(centru.x,centru.y,latura_patrat*Math.abs(gamma/180),latura_patrat*Math.abs(gamma/180));
 //context.rect(canvas.width/2,canvas.height/2,latura_patrat+Math.abs(gamma),latura_patrat+Math.abs(gamma))
-context.fillRect(canvas.width/2,canvas.height/2,latura_patrat+Math.abs(gamma),latura_patrat+Math.abs(gamma));
+//context.fillRect(canvas.width/2,canvas.height/2,latura_patrat+Math.abs(gamma),latura_patrat+Math.abs(gamma));
 
 
 /* context.rect(centru.x/2,centru.y/2, 
 latura_patrat*(+Math.abs(gamma/180))%canvas.width/2, latura_patrat*(+Math.abs(gamma/180))%canvas.height/2 ); */
 
-context.stroke();
+//context.stroke();
 }
 
-window.addEventListener("deviceorientation", 
-on_device_orientation);
