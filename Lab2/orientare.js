@@ -22,7 +22,7 @@ context.clearRect(0,0,canvas.width, canvas.height);
 
 context.beginPath();
 context.fillStyle = "#00FF00";
-context.fillRect(canvas.width/2-Math.abs(gamma),canvas.height/2-Math.abs(gamma),Math.abs(gamma)*2,Math.abs(gamma)*2);
+context.fillRect(canvas.width/2-Math.abs(gamma),canvas.height/2-Math.abs(gamma),Math.abs(gamma)*4,Math.abs(gamma)*4);
 context.stroke();
 //context.fillStyle = "red";
 //context.translate(centru.x/2, centru.y/2);
