@@ -19,6 +19,6 @@ context.translate(centru.x/2, centru.y/2);
 context.rotate(alpha * Math.PI / 180);
 context.beginPath();
 context.rect(latura_patrat/2,latura_patrat/2, 
-latura_patrat, latura_patrat);
+latura_patrat*Math.abs(gamma), latura_patrat*Math.abs(gamma));
 context.stroke();
 }
