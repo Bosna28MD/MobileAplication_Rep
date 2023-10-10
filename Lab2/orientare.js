@@ -20,6 +20,7 @@ context.clearRect(0,0,canvas.width, canvas.height);
 //context.beginPath();
 //context.fillStyle = "#FF0000";
 //context.rect(centru.x,centru.y,latura_patrat*Math.abs(gamma/180),latura_patrat*Math.abs(gamma/180));
+context.fillStyle = "#FF0000";
 context.rect(0,0,
 300,300);
 /* context.rect(centru.x/2,centru.y/2, 
