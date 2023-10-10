@@ -21,8 +21,8 @@ context.clearRect(0,0,canvas.width, canvas.height);
 context.beginPath();
 context.fillStyle = "#FF0000";
 //context.rect(centru.x,centru.y,latura_patrat*Math.abs(gamma/180),latura_patrat*Math.abs(gamma/180));
-
-context.fillRect(canvas.width/2,canvas.height/2,latura_patrat+gamma,latura_patrat+gamma);
+context.rect(canvas.width/2,canvas.height/2,latura_patrat+Math.abs(gamma),latura_patrat+Math.abs(gamma))
+//context.fillRect(canvas.width/2,canvas.height/2,latura_patrat+gamma,latura_patrat+gamma);
 
 
 /* context.rect(centru.x/2,centru.y/2, 
