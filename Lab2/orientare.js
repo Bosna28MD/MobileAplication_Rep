@@ -21,7 +21,7 @@ context.setTransform(1, 0, 0, 1, 0, 0);
 context.clearRect(0,0,canvas.width, canvas.height);
 
 context.beginPath();
-context.fillStyle = "#FF0000";
+context.fillStyle = "#00FF00";
 context.fillRect(canvas.width/2-Math.abs(gamma),canvas.height/2-Math.abs(gamma),Math.abs(gamma)*2,Math.abs(gamma)*2);
 context.stroke();
 //context.fillStyle = "red";
