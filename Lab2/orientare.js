@@ -19,7 +19,7 @@ context.clearRect(0,0,canvas.width, canvas.height);
 //context.rotate(alpha * Math.PI / 180);
 context.beginPath();
 context.fillStyle = "#FF0000";
-context.rect(canvas.width/2-latura_patrat/2,canvas.height/2-latura_patrat/2, 
+context.rect(canvas.width/2-latura_patrat,canvas.height/2-latura_patrat, 
 latura_patrat*(+Math.abs(gamma/2))%canvas.width, latura_patrat*(+Math.abs(gamma))%400 );
 context.stroke();
 }
