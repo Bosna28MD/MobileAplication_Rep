@@ -2,6 +2,7 @@
 window.addEventListener("deviceorientation", 
 on_device_orientation);
 
+
 function on_device_orientation(evt)
 {
 var alpha = evt.alpha;
@@ -20,7 +21,7 @@ context.clearRect(0,0,canvas.width, canvas.height);
 
 context.beginPath();
 context.fillStyle = "#FF0000";
-context.fillRect(5,5,30,30);
+context.fillRect(canvas.width/2,canvas.height/2,Math.abs(gamma),Math.abs(gamma));
 context.stroke();
 //context.fillStyle = "red";
 //context.translate(centru.x/2, centru.y/2);
