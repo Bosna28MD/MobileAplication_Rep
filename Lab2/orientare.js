@@ -8,6 +8,7 @@ function on_device_orientation(evt)
 var alpha = evt.alpha;
 var beta = evt.beta;
 var gamma = evt.gamma;
+//var gamma =90;
 document.getElementById("a").innerHTML = "alpha = "+alpha;
 document.getElementById("b").innerHTML = "beta = "+beta;
 document.getElementById("c").innerHTML = "gamma = "+gamma;
@@ -21,7 +22,7 @@ context.clearRect(0,0,canvas.width, canvas.height);
 
 context.beginPath();
 context.fillStyle = "#FF0000";
-context.fillRect(canvas.width/2,canvas.height/2,Math.abs(gamma),Math.abs(gamma));
+context.fillRect(canvas.width/2-Math.abs(gamma),canvas.height/2-Math.abs(gamma),Math.abs(gamma)*2,Math.abs(gamma)*2);
 context.stroke();
 //context.fillStyle = "red";
 //context.translate(centru.x/2, centru.y/2);
