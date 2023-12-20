@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-merged_res-28:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-main-30:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-merged_res-28:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-main-30:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-merged_res-28:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-main-30:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-merged_res-28:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-main-30:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-merged_res-28:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-main-30:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-merged_res-28:/layout_activity_main_menu.xml.flat",
+        "source": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-main-30:/layout/activity_main_menu.xml"
+    },
+    {
+        "merged": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-main-30:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-merged_res-28:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-main-30:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-merged_res-28:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-merged_res-28:/drawable_baseline_delete_forever_24.xml.flat",
+        "source": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-main-30:/drawable/baseline_delete_forever_24.xml"
+    },
+    {
+        "merged": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-merged_res-28:/layout_allusers_recycleview.xml.flat",
+        "source": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-main-30:/layout/allusers_recycleview.xml"
+    },
+    {
+        "merged": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-merged_res-28:/xml_backup_rules.xml.flat",
+        "source": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-main-30:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-merged_res-28:/drawable_baseline_edit_24.xml.flat",
+        "source": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-main-30:/drawable/baseline_edit_24.xml"
+    },
+    {
+        "merged": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-main-30:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-main-30:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-merged_res-28:/layout_activity_log_in.xml.flat",
+        "source": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-main-30:/layout/activity_log_in.xml"
+    },
+    {
+        "merged": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-merged_res-28:/layout_activity_view_all_users.xml.flat",
+        "source": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-main-30:/layout/activity_view_all_users.xml"
+    },
+    {
+        "merged": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-merged_res-28:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-main-30:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-merged_res-28:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-main-30:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "/home/bosna/.gradle/daemon/8.0/com.example.project1.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.project1.app-merged_res-28:/layout_allusers_recycleview.xml.flat",
+        "source": "com.example.project1.app-main-30:/layout/allusers_recycleview.xml"
+    }
+]
