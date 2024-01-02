@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/login_bottom"
+        android:title="LogIn"
+        android:icon="@drawable/baseline_login"
+        />
+
+    <item
+        android:id="@+id/register_bottom"
+        android:title="Register"
+        android:icon="@drawable/baseline_app_registration" />
+
+
+</menu>
